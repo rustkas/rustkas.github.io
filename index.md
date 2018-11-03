@@ -5,11 +5,11 @@ e-mail: developer@languages-with-music.com
 tel:  +7 921 105 39 75 (mob.)
 Location: Kaliningrad, Russian Federation 
 Additional profiles:
-http://stackoverflow.com/story/anatolij.kosorukov
-https://github.com/rustkas
-https://www.youtube.com/user/java1cprog/
-https://www.hackerrank.com/java1cprog
-http://javatalks.ru/users/1158/postList
+[http://stackoverflow.com/story/anatolij.kosorukov](http://stackoverflow.com/story/anatolij.kosorukov)
+[https://github.com/rustkas](https://github.com/rustkas)
+[https://www.youtube.com/user/java1cprog/](https://www.youtube.com/user/java1cprog/)
+[https://www.hackerrank.com/java1cprog](https://www.hackerrank.com/java1cprog)
+[http://javatalks.ru/users/1158/postList](http://javatalks.ru/users/1158/postList)
 
 
 ### Technical skills and competences
