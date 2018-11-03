@@ -53,7 +53,7 @@ Self-education, counseling
 Study Rust technologies
 
 
-#### Filevskij N.M. * 02/09 to Current
+#### Filevskij N.M. 02/09 to Current
 Development Team Lead
 (education)
 Using Java, Javascript, C#, Python, Go, NSIS.
@@ -64,7 +64,7 @@ Implementation of the project.
 Mass media publications:
 https://strana39.ru/news/zemlyaki/89616/kaliningradets-uchit-angliyskomu-yazyku-s-pomoshchyu-muzyki.html
 
-#### School of programming * 10/15 to 10/16
+#### School of programming 10/15 to 10/16
 (education)
 Teacher
 Teaching of the Java programming language and related technologies.
@@ -73,7 +73,7 @@ http://geekbrains.ru/events/135#.
 Conducting a webinar on using the Java Sound API. There was demonstration the Java APIs for creating music player, as well as available Open Source solutions.
 http://geekbrains.ru/events/162#
 
-#### Siemens VDO Engineering * 09/07 to 02/09
+#### Siemens VDO Engineering 09/07 to 02/09
 (engineering)
 Java Programmer
 Developed the SWT GUI application for viewing charts and tables of specific data formats.
@@ -81,7 +81,7 @@ Developed converters of specific data formats, conversion of C-based data to Jav
 Initiated usage of JUnit tests at the company. Developed various of JUnit tests.
 Code refactoring: changed Java programs codes to make them amenable to change, improved their readability, simplified their structure.
 
-#### Arctel * 11/06 to 04/07 
+#### Arctel 11/06 to 04/07 
 (ip- telephony)
 1C Programmer 
 Completion of a standard configuration 1C 8.0 (“Accounts departments” and “Management of trade”)
@@ -89,7 +89,7 @@ Creation of new documents, reports, modernization existing 1C 8.0
 Support of 8 branches across Russia
 Writing of  documentation
 
-#### Dixis * 08/06 to 11/06 
+#### Dixis 08/06 to 11/06 
 (trade and repair mobile phones)
 1C Programmer 
 Development and adjustment of the standard configuration 1C 7.7 (“Trade and warehouse”)
@@ -98,4 +98,3 @@ Creation of new documents, reports, modernization of existing 1C 8.0
 Support of 50 branches across Russia
 Writing of the documentation
  
-
