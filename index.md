@@ -21,6 +21,12 @@ Additional profiles:
 
 ### The recent technical actions 
 
+*  Research of Rust compiler features https://github.com/rustkas/error-index
+*  Research of fundamental algorithms using Rust https://github.com/rustkas/Longest-Common-Substring-Problem
+*  Collect tips and tricks of using Rust https://github.com/rustkas/Tip-and-Tricks-Rust-Programming
+*  Writing Rust tutorials https://github.com/rustkas/simple-about-rust
+*  Development Rust community  http://vk.com/rust_for_developers
+*  One-time consultation of bank analysts.
 * Admin of https://vk.com/rust_for_developers
 * Created source codes for the book "Understanding ECMAScript 6": https://github.com/java1cprog/understandinges6/tree/master/manuscript/source%20code
 * Translation of a book "Rust book" (second edition) into Russian https://github.com/rustkas/book/tree/ru_version/second-edition/src
