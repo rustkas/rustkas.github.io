@@ -20,7 +20,7 @@ Additional profiles:
 * Quick-learner and eager for development
 
 ### The recent technical actions 
-
+*  Migrating to http://www.languages-with-music.com/ to Bootstrap v4
 *  Research of Rust compiler features https://github.com/rustkas/error-index
 *  Research of fundamental algorithms using Rust https://github.com/rustkas/Longest-Common-Substring-Problem
 *  Collect tips and tricks of using Rust https://github.com/rustkas/Tip-and-Tricks-Rust-Programming
