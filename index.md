@@ -105,3 +105,17 @@ Creation of new documents, reports, modernization of existing 1C 8.0
 Support of 50 branches across Russia
 Writing of the documentation
  
+## IDE which I used
+### Python
+- www.anaconda.com/
+
+### Rust
+- IntelliJ IDEA Community edition
+
+### Java
+- Eclipse IDE
+- Netbeans
+
+### Delphi
+- Embarcadero Community edition
+
