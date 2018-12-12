@@ -107,7 +107,7 @@ Writing of the documentation
  
 ## IDE which I used
 ### Python
-- www.anaconda.com/
+- www.anaconda.com/ Spyder
 
 ### Rust
 - IntelliJ IDEA Community edition
