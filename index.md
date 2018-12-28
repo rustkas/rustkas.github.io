@@ -13,13 +13,20 @@ Additional profiles:
 
 ### Technical skills and competences
 * Excellent understanding of common data structures and algorithms complexity.
-*  Strong experience in  Java/Rust/JS/C/Go/C++
+*  Strong experience in  Java/Rust/Elixir/Erlang/JS/C/Go/C++
 *  Strong architecture skills: patterns, anti-patterns, principles of applications development
 * Knowledge of UNIX remote administration: bash, apache, nginx setup, iptables setup.
 * Have strong experience in developing commercial quality products applications ("Languages with music" applications development).
 * Quick-learner and eager for development
 
 ### The recent technical actions 
+* Researcher language programming, scientific concepts for the development of training systems • Tutor of Rust programming language.
+* Research using Delphi, Python, Scala, WebAssembly (emsdk)
+* Ability to quickly adapt to new languages, development tools, someone else's code
+* Software development using Erlang, Elixir, Python, Java, Groovy, Scala, Rust, Java, Groovy, C/C++, R, Perl, VBA, VB, C#, Go, JS, NSIS
+*  Experience of Data Analytics (VBA)
+*  Experience of Data Engineering
+*  Experience with distributed stream processing frameworks
 *  Migrating to http://www.languages-with-music.com/ to Bootstrap v4
 *  MVP development of apps by Delphi
 *  Research of Rust compiler features https://github.com/rustkas/error-index
