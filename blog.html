@@ -9507,7 +9507,7 @@ Error message and password prompt
 <div title="$:/status/UserName" revision="1" bag="default">
 <pre></pre>
 </div>
-<div created="20191006065246863" list="[[2019-10-06 Simple way to find bug]] Home" modified="20191006065246863" title="$:/StoryList" revision="6" bag="default">
+<div created="20191006065246863" list="[[2019-10-06 Simple way to find bug]] Home" modified="20191006065246863" title="$:/StoryList" revision="8" bag="default">
 <pre></pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json" revision="0" bag="default">
@@ -9694,20 +9694,20 @@ Error message and password prompt
 
 The reality is that only hard work, material analysis, reflection and extensive practical experience droppings turn from a beginner to an experienced programmer.</pre>
 </div>
-<div created="20191006062740553" modified="20191006065255417" tags="published [[Joe Armstrong]] [[Programming Erlang]] Erlang" title="2019-10-06 Simple way to find bug" type="text/vnd.tiddlywiki" revision="1" bag="default">
-<pre>Sometimes it happens that a mistake is difficult to find. It seems that it should not be, but still something goes wrong. The code freezes - for example, a message is sent to the server, the client expects a response, but there is none and no.
+<div created="20191006062740553" modified="20191006070822791" tags="published [[Joe Armstrong]] [[Programming Erlang]] Erlang" title="2019-10-06 Simple way to find bug" type="text/vnd.tiddlywiki" revision="2" bag="default">
+<pre>Sometimes it happens that a mistake is difficult to find out. It looks like there mustn't be any mistake, but nevetheless something goes wrong. The code freezes - for example, a message is sent to the server, the client expects a response, but nothing happens.
 
 What to do?
 
-The easiest and fastest way to debug is to view a list of atoms. If you see an atom that should not be, cheers. It is very likely that you found an error and, having recompiled the code, everything will work.
+The easiest and fastest way to debug is to view a list of atoms. If you find an atom that is not expected to be there - then you surely (but not definitely!) have found the mistake.  It is very likely that you have found the error and probably after you have recompiled the code, everything will work.
 [img[/2019-10-06/img1.jpg]]
 
 [img[https://imagery.pragprog.com/products/305/jaerlang2_xlargecover.jpg]]
 
-I had to solve this problem when I performed the exercise of the first chapter of Joe Armstrong's book &quot;Programming Erlang&quot;. I added the ability to create a file (I changed the code of both the client and the server), but something was wrong and when the request to create the file was created, the shell would hang waiting for a response.
+I had to solve this problem when I performed the exercise taken from the first chapter of Joe Armstrong's book &quot;Programming Erlang&quot;. I added the option to create a file (I changed the code of both the client and the server), but something went wrong and when the request to create the file was created, the shell hung waiting for a response.
 
 [img[/2019-10-06/img2.jpg]]
-[img[$:/2019-10-06/img2.jpg]]
+
 
 </pre>
 </div>
