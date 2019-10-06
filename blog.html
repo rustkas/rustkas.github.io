@@ -143,6 +143,8 @@ Error message and password prompt
 
 <li>$:/config/NewJournal/Title</li>
 
+<li>$:/config/RelinkOnRename</li>
+
 <li>$:/core</li>
 
 <li>$:/DefaultTiddlers</li>
@@ -193,9 +195,11 @@ Error message and password prompt
 
 <li>2019-10-03 My way to study Erlang</li>
 
+<li>2019-10-04 code_characters(Str) function</li>
+
 <li>2019-10-06 Simple way to find bug</li>
 
-<li>code_characters(Str) function</li>
+<li>Draft of 'code_characters(Str) function' by Anatolii Kosorukov</li>
 
 <li>Home</li>
 
@@ -211,6 +215,9 @@ Error message and password prompt
 <div id="storeArea" style="display:none;">
 <div created="20191002165849615" modified="20191002165900541" title="$:/config/NewJournal/Title" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>DDth MM YYYY</pre>
+</div>
+<div created="20191006071826118" creator="Anatolii Kosorukov" modified="20191006071826118" modifier="Anatolii Kosorukov" title="$:/config/RelinkOnRename" revision="1" bag="default">
+<pre>yes</pre>
 </div>
 <div author="JeremyRuston" core-version="&gt;=5.0.0" dependents="" description="TiddlyWiki5 core" list="readme" plugin-priority="0" plugin-type="plugin" title="$:/core" type="application/json" version="5.1.21" revision="0" bag="default">
 <pre>{
@@ -9527,7 +9534,7 @@ Error message and password prompt
 <div created="20191006071530038" creator="a" modified="20191006071538139" modifier="Anatolii Kosoruko" title="$:/status/UserName" revision="21" bag="default">
 <pre>Anatolii Kosorukov</pre>
 </div>
-<div created="20191006071224738" list="Home [[2019-10-06 Simple way to find bug]]" modified="20191006071447360" title="$:/StoryList" revision="10" bag="default">
+<div created="20191006071224738" creator="Anatolii Kosorukov" list="[[2019-10-04 code_characters(Str) function]] [[2019-10-03 My way to study Erlang]] Home [[2019-10-06 Simple way to find bug]]" modified="20191006071745023" modifier="Anatolii Kosorukov" title="$:/StoryList" revision="18" bag="default">
 <pre></pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json" revision="0" bag="default">
@@ -9709,29 +9716,12 @@ Error message and password prompt
 # Save changes. `tiddlywiki share --build index`
 </pre>
 </div>
-<div created="20191003174820359" modified="20191003175229536" tags="published [[Programming Erlang]] Erlang" title="2019-10-03 My way to study Erlang" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20191003174820359" creator="Anatolii Kosorukov" modified="20191006071742071" modifier="Anatolii Kosorukov" tags="published [[Programming Erlang]] Erlang" title="2019-10-03 My way to study Erlang" type="text/vnd.tiddlywiki" revision="1" bag="default">
 <pre>Learn English in 60 seconds, Programming in two weeks, we will teach, only with us you will become ... These marketing slogans attract an easy solution to problems.
 
 The reality is that only hard work, material analysis, reflection and extensive practical experience droppings turn from a beginner to an experienced programmer.</pre>
 </div>
-<div author="" created="20191006062740553" creator="Anatolii Kosorukov" modified="20191006071618794" modifier="Anatolii Kosorukov" tags="published [[Joe Armstrong]] [[Programming Erlang]] Erlang" title="2019-10-06 Simple way to find bug" type="text/vnd.tiddlywiki" revision="1" bag="default">
-<pre>Sometimes it happens that a mistake is difficult to find out. It looks like there mustn't be any mistake, but nevetheless something goes wrong. The code freezes - for example, a message is sent to the server, the client expects a response, but nothing happens.
-
-What to do?
-
-The easiest and fastest way to debug is to view a list of atoms. If you find an atom that is not expected to be there - then you surely (but not definitely!) have found the mistake.  It is very likely that you have found the error and probably after you have recompiled the code, everything will work.
-[img[/2019-10-06/img1.jpg]]
-
-[img[https://imagery.pragprog.com/products/305/jaerlang2_xlargecover.jpg]]
-
-I had to solve this problem when I performed the exercise taken from the first chapter of Joe Armstrong's book &quot;Programming Erlang&quot;. I added the option to create a file (I changed the code of both the client and the server), but something went wrong and when the request to create the file was created, the shell hung waiting for a response.
-
-[img[/2019-10-06/img2.jpg]]
-
-
-</pre>
-</div>
-<div created="20191002174839098" creator="Anatolii Kosorukov" modified="20191002191158194" modifier="Anatolii Kosorukov" tags="[[Programming Erlang]] [[book's source code]] [[Joe Armstrong]] Erlang published" title="code_characters(Str) function" type="text/vnd.tiddlywiki" revision="0" bag="default">
+<div created="20191002174839098" creator="Anatolii Kosorukov" modified="20191006071828199" modifier="Anatolii Kosorukov" tags="[[Programming Erlang]] [[book's source code]] [[Joe Armstrong]] Erlang published" title="2019-10-04 code_characters(Str) function" type="text/vnd.tiddlywiki" revision="1" bag="default">
 <pre>Today I fixed buggy-code example. It is in  Joe Armstrong's book  [[&quot;Programming Erlang&quot;|https://pragprog.com/titles/jaerlang2/]], page 82. I hope this code will help Erlang programmers be more efficient.
 
 
@@ -9765,6 +9755,26 @@ count_characters([], X) -&gt; X.
 
 
 </pre>
+</div>
+<div author="" created="20191006062740553" creator="Anatolii Kosorukov" modified="20191006071710143" modifier="Anatolii Kosorukov" tags="published [[Joe Armstrong]] [[Programming Erlang]] Erlang" title="2019-10-06 Simple way to find bug" type="text/vnd.tiddlywiki" revision="2" bag="default">
+<pre>Sometimes it happens that a mistake is difficult to find out. It looks like there mustn't be any mistake, but nevetheless something goes wrong. The code freezes - for example, a message is sent to the server, the client expects a response, but nothing happens.
+
+What to do?
+
+The easiest and fastest way to debug is to view a list of atoms. If you find an atom that is not expected to be there - then you surely (but not definitely!) have found the mistake.  It is very likely that you have found the error and probably after you have recompiled the code, everything will work.
+[img[/2019-10-06/img1.jpg]]
+
+[img[https://imagery.pragprog.com/products/305/jaerlang2_xlargecover.jpg]]
+
+I had to solve this problem when I performed the exercise taken from the first chapter of Joe Armstrong's book &quot;Programming Erlang&quot;. I added the option to create a file (I changed the code of both the client and the server), but something went wrong and when the request to create the file was created, the shell hung waiting for a response.
+
+[img[/2019-10-06/img2.jpg]]
+
+
+</pre>
+</div>
+<div modified="20191006071828359" modifier="Anatolii Kosorukov" title="Draft of 'code_characters(Str) function' by Anatolii Kosorukov" revision="17" bag="default">
+<pre></pre>
 </div>
 <div created="20191002165403518" creator="Anatolii Kosorukov" modified="20191006065243438" modifier="Anatolii Kosorukov" tags="main" title="Home" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! ''This my blog and CV''
