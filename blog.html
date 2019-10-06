@@ -163,6 +163,8 @@ Error message and password prompt
 
 <li>$:/SiteTitle</li>
 
+<li>$:/state/image-picker/system--1365487189</li>
+
 <li>$:/state/showeditpreview</li>
 
 <li>$:/status/IsAnonymous</li>
@@ -184,6 +186,8 @@ Error message and password prompt
 <li>2019-10-02 How to use TiddyWiki</li>
 
 <li>2019-10-03 My way to study Erlang</li>
+
+<li>2019-10-06 Simple way to find bug</li>
 
 <li>code_characters(Str) function</li>
 
@@ -9490,8 +9494,11 @@ Error message and password prompt
 <div created="20191002174708534" creator="Anatolii Kosorukov" modified="20191002174737979" modifier="Anatolii Kosorukov" title="$:/SiteTitle" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Anatolii's Blog - Erlang and other stuff</pre>
 </div>
-<div created="20191003174959816" modified="20191003175009361" title="$:/state/showeditpreview" revision="4" bag="default">
-<pre>no</pre>
+<div created="20191006063225890" modified="20191006063225890" title="$:/state/image-picker/system--1365487189" revision="1" bag="default">
+<pre>show</pre>
+</div>
+<div created="20191006063349713" modified="20191006064224948" title="$:/state/showeditpreview" revision="9" bag="default">
+<pre>yes</pre>
 </div>
 <div title="$:/status/IsAnonymous" revision="1" bag="default">
 <pre>yes</pre>
@@ -9505,7 +9512,7 @@ Error message and password prompt
 <div title="$:/status/UserName" revision="1" bag="default">
 <pre></pre>
 </div>
-<div created="20191003175422240" list="Home [[2019-10-03 My way to study Erlang]]" modified="20191003175422240" title="$:/StoryList" revision="5" bag="default">
+<div list="[[2019-10-06 Simple way to find bug]] Home" title="$:/StoryList" revision="5" bag="default">
 <pre></pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json" revision="0" bag="default">
@@ -9687,10 +9694,27 @@ Error message and password prompt
 # Save changes. `tiddlywiki share --build index`
 </pre>
 </div>
-<div created="20191003174820359" modified="20191003175228338" tags="published [[Programming Erlang]] Erlang" title="2019-10-03 My way to study Erlang" revision="1" bag="default">
+<div created="20191003174820359" modified="20191003175229536" tags="published [[Programming Erlang]] Erlang" title="2019-10-03 My way to study Erlang" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Learn English in 60 seconds, Programming in two weeks, we will teach, only with us you will become ... These marketing slogans attract an easy solution to problems.
 
 The reality is that only hard work, material analysis, reflection and extensive practical experience droppings turn from a beginner to an experienced programmer.</pre>
+</div>
+<div created="20191006062740553" modified="20191006064708675" tags="[[Joe Armstrong]] [[Programming Erlang]] Erlang" title="2019-10-06 Simple way to find bug" revision="1" bag="default">
+<pre>Sometimes it happens that a mistake is difficult to find. It seems that it should not be, but still something goes wrong. The code freezes - for example, a message is sent to the server, the client expects a response, but there is none and no.
+
+What to do?
+
+The easiest and fastest way to debug is to view a list of atoms. If you see an atom that should not be, cheers. It is very likely that you found an error and, having recompiled the code, everything will work.
+[img[/2019-10-06/img1.jpg]]
+
+[img[https://imagery.pragprog.com/products/305/jaerlang2_xlargecover.jpg]]
+
+I had to solve this problem when I performed the exercise of the first chapter of Joe Armstrong's book &quot;Programming Erlang&quot;. I added the ability to create a file (I changed the code of both the client and the server), but something was wrong and when the request to create the file was created, the shell would hang waiting for a response.
+
+[img[/2019-10-06/img2.jpg]]
+[img[$:/2019-10-06/img2.jpg]]
+
+</pre>
 </div>
 <div created="20191002174839098" creator="Anatolii Kosorukov" modified="20191002191158194" modifier="Anatolii Kosorukov" tags="[[Programming Erlang]] [[book's source code]] [[Joe Armstrong]] Erlang published" title="code_characters(Str) function" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>Today I fixed buggy-code example. It is in  Joe Armstrong's book  [[&quot;Programming Erlang&quot;|https://pragprog.com/titles/jaerlang2/]], page 82. I hope this code will help Erlang programmers be more efficient.
@@ -9727,7 +9751,7 @@ count_characters([], X) -&gt; X.
 
 </pre>
 </div>
-<div created="20191002165403518" creator="Anatolii Kosorukov" modified="20191003175426327" modifier="Anatolii Kosorukov" tags="main" title="Home" type="text/vnd.tiddlywiki" revision="1" bag="default">
+<div created="20191002165403518" creator="Anatolii Kosorukov" modified="20191003175427549" modifier="Anatolii Kosorukov" tags="main" title="Home" type="text/vnd.tiddlywiki" revision="0" bag="default">
 <pre>!! ''This my blog and CV''
 
 //CV is [[here|https://rustkas.github.io/]]//.
