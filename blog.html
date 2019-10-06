@@ -9534,7 +9534,7 @@ Error message and password prompt
 <div created="20191006071530038" creator="a" modified="20191006071538139" modifier="Anatolii Kosoruko" title="$:/status/UserName" revision="21" bag="default">
 <pre>Anatolii Kosorukov</pre>
 </div>
-<div created="20191006071224738" creator="Anatolii Kosorukov" list="[[2019-10-04 code_characters(Str) function]] [[2019-10-03 My way to study Erlang]] Home [[2019-10-06 Simple way to find bug]]" modified="20191006071745023" modifier="Anatolii Kosorukov" title="$:/StoryList" revision="18" bag="default">
+<div created="20191006071224738" creator="Anatolii Kosorukov" list="[[2019-10-04 code_characters(Str) function]] [[2019-10-03 My way to study Erlang]] Home [[2019-10-06 Simple way to find bug]]" modified="20191006071745023" modifier="Anatolii Kosorukov" title="$:/StoryList" revision="20" bag="default">
 <pre></pre>
 </div>
 <div plugin-type="info" title="$:/temp/info-plugin" type="application/json" revision="0" bag="default">
@@ -9721,7 +9721,7 @@ Error message and password prompt
 
 The reality is that only hard work, material analysis, reflection and extensive practical experience droppings turn from a beginner to an experienced programmer.</pre>
 </div>
-<div created="20191002174839098" creator="Anatolii Kosorukov" modified="20191006071828199" modifier="Anatolii Kosorukov" tags="[[Programming Erlang]] [[book's source code]] [[Joe Armstrong]] Erlang published" title="2019-10-04 code_characters(Str) function" type="text/vnd.tiddlywiki" revision="1" bag="default">
+<div created="20191002174839098" creator="Anatolii Kosorukov" modified="20191006072327679" modifier="Anatolii Kosorukov" tags="[[Programming Erlang]] [[book's source code]] [[Joe Armstrong]] Erlang published" title="2019-10-04 code_characters(Str) function" type="text/vnd.tiddlywiki" revision="2" bag="default">
 <pre>Today I fixed buggy-code example. It is in  Joe Armstrong's book  [[&quot;Programming Erlang&quot;|https://pragprog.com/titles/jaerlang2/]], page 82. I hope this code will help Erlang programmers be more efficient.
 
 
@@ -9742,14 +9742,14 @@ My version of `code_characters(Str)` function:
 count_characters(Str) -&gt;
    count_characters(Str, #{}).
 
-count_characters([H|T], X) when is_map(X),is_map_key(H, X) -&gt;
-   N= map_get(H,X),
-   count_characters(T, X#{ H := N+1 });
+count_characters([H|T], M) when is_map(M), is_map_key(H, M) -&gt;
+   N= map_get(H,M),
+   count_characters(T, M#{ H := N+1 });
 
-count_characters([H|T], X) -&gt;
-   count_characters(T, X#{ H =&gt; 1 });
+count_characters([H|T], M) -&gt;
+   count_characters(T, M#{ H =&gt; 1 });
 
-count_characters([], X) -&gt; X.
+count_characters([], M) -&gt; M.
 
 ```
 
@@ -9773,7 +9773,7 @@ I had to solve this problem when I performed the exercise taken from the first c
 
 </pre>
 </div>
-<div modified="20191006071828359" modifier="Anatolii Kosorukov" title="Draft of 'code_characters(Str) function' by Anatolii Kosorukov" revision="17" bag="default">
+<div created="20191006071829435" modified="20191006071829435" modifier="Anatolii Kosorukov" title="Draft of 'code_characters(Str) function' by Anatolii Kosorukov" type="text/vnd.tiddlywiki" revision="18" bag="default">
 <pre></pre>
 </div>
 <div created="20191002165403518" creator="Anatolii Kosorukov" modified="20191006065243438" modifier="Anatolii Kosorukov" tags="main" title="Home" type="text/vnd.tiddlywiki" revision="0" bag="default">
