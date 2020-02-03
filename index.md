@@ -22,7 +22,9 @@ Additional profiles:
 * Quick-learner and eager for development
 
 ### The recent technical actions 
-* Researcher language programming, scientific concepts for the development of training systems • Tutor of Rust programming language.
+
+* Research using Erlang for programming for web, scientific concepts for the development of training systems 
+* Tutor of Rust programming language.
 * Research using Delphi, Python, Scala, WebAssembly (emsdk)
 * Ability to quickly adapt to new languages, development tools, someone else's code
 * Software development using Erlang, Elixir, Python, Java, Groovy, Scala, Rust, Java, Groovy, C/C++, R, Perl, VBA, VB, C#, Go, JS, NSIS
