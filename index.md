@@ -77,7 +77,7 @@ Senior Java Developer, Team Lead
 • GitLab, Docker CI/CD intercalation
 • Research, organization business processes
 
-#### Oracle America, Inc. ([https://jcp.org/en/participation/members/K[(https://jcp.org/en/participation/members/K)) 10/16 to Current
+#### Oracle America, Inc. ([https://jcp.org/en/participation/members/K](https://jcp.org/en/participation/members/K)) 10/16 to Current
 (specification development)
 JCP: Associate Member java, java-ee
 Participation in the development of the documentation for the various Java ™ API, participate in
