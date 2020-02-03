@@ -1,3 +1,4 @@
+
 ## Kosorukov Anatolii
 
 [My blog](blog.html)
@@ -31,23 +32,23 @@ Additional profiles:
 *  Experience of Data Analytics (VBA)
 *  Experience of Data Engineering
 *  Experience with distributed stream processing frameworks
-*  Migrating to http://www.languages-with-music.com/ to Bootstrap v4
+*  Migrating to [http://www.languages-with-music.com/](http://www.languages-with-music.com/) to Bootstrap v4
 *  MVP development of apps by Delphi
-*  Research of Rust compiler features https://github.com/rustkas/error-index
-*  Research of fundamental algorithms using Rust https://github.com/rustkas/Longest-Common-Substring-Problem
-*  Collect tips and tricks of using Rust https://github.com/rustkas/Tip-and-Tricks-Rust-Programming
-*  Writing Rust tutorials https://github.com/rustkas/simple-about-rust
-*  Development Rust community  http://vk.com/rust_for_developers
+*  Research of Rust compiler features [https://github.com/rustkas/error-index](https://github.com/rustkas/error-index)
+*  Research of fundamental algorithms using Rust [https://github.com/rustkas/Longest-Common-Substring-Problem](https://github.com/rustkas/Longest-Common-Substring-Problem)
+*  Collect tips and tricks of using Rust [https://github.com/rustkas/Tip-and-Tricks-Rust-Programming](https://github.com/rustkas/Tip-and-Tricks-Rust-Programming)
+*  Writing Rust tutorials [https://github.com/rustkas/simple-about-rust](https://github.com/rustkas/simple-about-rust)
+*  Development Rust community  [http://vk.com/rust_for_developers](http://vk.com/rust_for_developers)
 *  One-time consultation of bank analysts.
 * Admin of https://vk.com/rust_for_developers
-* Created source codes for the book "Understanding ECMAScript 6": https://github.com/java1cprog/understandinges6/tree/master/manuscript/source%20code
-* Translation of a book "Rust book" (second edition) into Russian https://github.com/rustkas/book/tree/ru_version/second-edition/src
-* Improving the source code for the book "Java 9 Recipes" - http://www.apress.com/gp/book/9781484219751
-https://github.com/java1cprog/java-9-recipes
-* Implementation of adaptive page design, cross-browser layout (http://www.languages-with-music.com).
+* Created source codes for the book "Understanding ECMAScript 6": [https://github.com/java1cprog/understandinges6/tree/master/manuscript/source%20code](https://github.com/java1cprog/understandinges6/tree/master/manuscript/source%20code)
+* Translation of a book "Rust book" (second edition) into Russian [https://github.com/rustkas/book/tree/ru_version/second-edition/src](https://github.com/rustkas/book/tree/ru_version/second-edition/src)
+* Improving the source code for the book "Java 9 Recipes" - [http://www.apress.com/gp/book/9781484219751](http://www.apress.com/gp/book/9781484219751)
+[https://github.com/java1cprog/java-9-recipes](https://github.com/java1cprog/java-9-recipes)
+* Implementation of adaptive page design, cross-browser layout ([http://www.languages-with-music.com](http://www.languages-with-music.com)).
 * Developed Java sound obfuscator.
 * Custom software development, software development by Java for internal needs of the company.
-* Implementation of the full software development cycle (from idea to commercial product http://www.languages-with-music.com) Demo - http://languages-with-music.com/download/ewm_ru_demo.html by Java.
+* Implementation of the full software development cycle (from idea to commercial product [http://www.languages-with-music.com](http://www.languages-with-music.com)) Demo - [http://languages-with-music.com/download/ewm_ru_demo.html](http://languages-with-music.com/download/ewm_ru_demo.html) by Java.
 * Sony "Sound Forge" add-in development by C#.
 
 
@@ -56,11 +57,11 @@ You can use the [editor on GitHub](https://github.com/rustkas/rustkas.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Code examples:
-SWT games - https://yadi.sk/d/gyl1mKWuk66SX
-IDE Eclipse 3.x plug-in - com.doobTools.sa160909.zip - https://yadi.sk/d/AAFKeHM73KCa4K
-rcp_solution.zip - https://yadi.sk/d/IE1Yt1lV3KCa4i
-NatTable RCP - https://yadi.sk/d/gKlwqzZ63KCaCh
-Java bytecode obfuscator - https://yadi.sk/d/bkWE77jf3KJT4o
+SWT games - [https://yadi.sk/d/gyl1mKWuk66SX](https://yadi.sk/d/gyl1mKWuk66SX)
+IDE Eclipse 3.x plug-in - com.doobTools.sa160909.zip - [https://yadi.sk/d/AAFKeHM73KCa4K](https://yadi.sk/d/AAFKeHM73KCa4K)
+rcp_solution.zip - [https://yadi.sk/d/IE1Yt1lV3KCa4i](https://yadi.sk/d/IE1Yt1lV3KCa4i)
+NatTable RCP - [https://yadi.sk/d/gKlwqzZ63KCaCh](https://yadi.sk/d/gKlwqzZ63KCaCh)
+Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/bkWE77jf3KJT4o)
 
 ### Employment history 
 
@@ -80,16 +81,16 @@ Development of technical specifications.
 Selection of the necessary technology for the project.
 Implementation of the project.
 Mass media publications:
-https://strana39.ru/news/zemlyaki/89616/kaliningradets-uchit-angliyskomu-yazyku-s-pomoshchyu-muzyki.html
+[https://strana39.ru/news/zemlyaki/89616/kaliningradets-uchit-angliyskomu-yazyku-s-pomoshchyu-muzyki.html](https://strana39.ru/news/zemlyaki/89616/kaliningradets-uchit-angliyskomu-yazyku-s-pomoshchyu-muzyki.html)
 
 #### School of programming 10/15 to 10/16
 (education)
 Teacher
 Teaching of the Java programming language and related technologies.
 Conducting a webinar on using SWT to create a graphical interface. There was demonstration and analysis of examples of programs.
-http://geekbrains.ru/events/135#.
+[http://geekbrains.ru/events/135#](http://geekbrains.ru/events/135#).
 Conducting a webinar on using the Java Sound API. There was demonstration the Java APIs for creating music player, as well as available Open Source solutions.
-http://geekbrains.ru/events/162#
+[http://geekbrains.ru/events/162#](http://geekbrains.ru/events/162#)
 
 #### Siemens VDO Engineering 09/07 to 02/09
 (engineering)
