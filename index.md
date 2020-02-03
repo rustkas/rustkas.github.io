@@ -65,8 +65,8 @@ Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/
 
 ### Employment history 
 
-#### Researcher 04/19 to Current  
-Self-education, counseling  
+#### Researcher 04/19 to Current 
+Self-education, counseling 
 Study Erlang technologies
 
 #### Innoseti 02/19 to 04/19  
