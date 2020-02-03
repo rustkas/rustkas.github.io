@@ -71,7 +71,9 @@ Study Erlang technologies
 
 #### Innoseti 02/19 to 04/19
 (blockchain system for insurance companies)
+
 [https://innoseti.ru/](https://innoseti.ru/)
+
 Senior Java Developer, Team Lead
 (software development for logistics, broker, insurance)
 • Spring Boot development
@@ -80,7 +82,9 @@ Senior Java Developer, Team Lead
 
 #### Oracle America, Inc. 10/16 to Current
 (specification development)
+
 [https://jcp.org/en/participation/members/K](https://jcp.org/en/participation/members/K)
+
 JCP: Associate Member java, java-ee
 Participation in the development of the documentation for the various Java ™ API, participate in
 discussions
