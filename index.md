@@ -70,7 +70,7 @@ Self-education, counseling
 Study Erlang technologies
 
 #### Innoseti 02/19 to 04/19
-(software development for logistics, broker, insurance)
+(software development for logistics, broker, insurance)  
 Senior Java Developer, Team Lead
  - Spring Boot development 
  - GitLab, Docker CI/CD intercalation 
