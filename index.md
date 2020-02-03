@@ -69,16 +69,18 @@ Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/
 Self-education, counseling 
 Study Erlang technologies
 
-#### Innoseti ([https://innoseti.ru/](https://innoseti.ru/)) 02/19 to 04/19
+#### Innoseti 02/19 to 04/19
 (blockchain system for insurance companies)
+[https://innoseti.ru/](https://innoseti.ru/)
 Senior Java Developer, Team Lead
 (software development for logistics, broker, insurance)
 • Spring Boot development
 • GitLab, Docker CI/CD intercalation
 • Research, organization business processes
 
-#### Oracle America, Inc. ([https://jcp.org/en/participation/members/K](https://jcp.org/en/participation/members/K)) 10/16 to Current
+#### Oracle America, Inc. 10/16 to Current
 (specification development)
+[https://jcp.org/en/participation/members/K](https://jcp.org/en/participation/members/K)
 JCP: Associate Member java, java-ee
 Participation in the development of the documentation for the various Java ™ API, participate in
 discussions
