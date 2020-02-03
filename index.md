@@ -65,7 +65,7 @@ Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/
 
 ### Employment history 
 
-#### Researcher 04/19 to Current  
+#### Researcher 04/19 to Current
 Self-education, counseling  
 Study Erlang technologies
 
@@ -95,7 +95,7 @@ Implementation of the project.
 Mass media publications:
 [https://strana39.ru/news/zemlyaki/89616/kaliningradets-uchit-angliyskomu-yazyku-s-pomoshchyu-muzyki.html](https://strana39.ru/news/zemlyaki/89616/kaliningradets-uchit-angliyskomu-yazyku-s-pomoshchyu-muzyki.html)
 
-#### School of programming 10/15 to 10/16  
+#### School of programming 10/15 to 10/16
 (education)  
 Teacher  
 Teaching of the Java programming language and related technologies.
