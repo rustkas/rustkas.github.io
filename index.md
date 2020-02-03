@@ -65,14 +65,24 @@ Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/
 
 ### Employment history 
 
-
-* 01/18 to Current
-#### Freelancer
+#### Researcher 04/19 to Current
 Self-education, counseling 
-Study Rust technologies
+Study Erlang technologies
 
+#### Innoseti ([https://innoseti.ru/](https://innoseti.ru/)) 02/19 to 04/19
+Senior Java Developer, Team Lead
+(software development for logistics, broker, insurance)
+• Spring Boot development
+• GitLab, Docker CI/CD intercalation
+• Research, organization business processes
 
-#### Filevskij N.M. 02/09 to Current
+#### Oracle America, Inc. (https://jcp.org/en/participation/members/K) 10/16 to Current
+(specification development)
+JCP: Associate Member java, java-ee
+Participation in the development of the documentation for the various Java ™ API, participate in
+discussions
+
+#### Filevskij N.M. 02/09 to 02/19
 Development Team Lead
 (education)
 Using Java, Javascript, C#, Python, Go, NSIS.
