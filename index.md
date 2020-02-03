@@ -65,11 +65,11 @@ Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/
 
 ### Employment history 
 
-#### Researcher 04/19 to Current
+#### Researcher 04/19 to Current  
 Self-education, counseling 
 Study Erlang technologies
 
-#### Innoseti 02/19 to 04/19
+#### Innoseti 02/19 to 04/19  
 (software development for logistics, broker, insurance)  
 Senior Java Developer, Team Lead 
  - Spring Boot development 
@@ -95,7 +95,7 @@ Implementation of the project.
 Mass media publications:
 [https://strana39.ru/news/zemlyaki/89616/kaliningradets-uchit-angliyskomu-yazyku-s-pomoshchyu-muzyki.html](https://strana39.ru/news/zemlyaki/89616/kaliningradets-uchit-angliyskomu-yazyku-s-pomoshchyu-muzyki.html)
 
-#### School of programming 10/15 to 10/16
+#### School of programming 10/15 to 10/16  
 (education)  
 Teacher
 Teaching of the Java programming language and related technologies.
@@ -104,7 +104,7 @@ Conducting a webinar on using SWT to create a graphical interface. There was dem
 Conducting a webinar on using the Java Sound API. There was demonstration the Java APIs for creating music player, as well as available Open Source solutions.
 [http://geekbrains.ru/events/162#](http://geekbrains.ru/events/162#)
 
-#### Siemens VDO Engineering 09/07 to 02/09
+#### Siemens VDO Engineering 09/07 to 02/09  
 (engineering)  
 Java Programmer
 Developed the SWT GUI application for viewing charts and tables of specific data formats.
@@ -120,7 +120,7 @@ Creation of new documents, reports, modernization existing 1C 8.0
 Support of 8 branches across Russia
 Writing of  documentation
 
-#### Dixis 08/06 to 11/06 
+#### Dixis 08/06 to 11/06  
 (trade and repair mobile phones)
 1C Programmer 
 Development and adjustment of the standard configuration 1C 7.7 (“Trade and warehouse”)
