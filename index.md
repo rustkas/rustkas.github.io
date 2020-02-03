@@ -66,25 +66,25 @@ Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/
 ### Employment history 
 
 #### Researcher 04/19 to Current  
-Self-education, counseling 
+Self-education, counseling  
 Study Erlang technologies
 
 #### Innoseti 02/19 to 04/19  
 (software development for logistics, broker, insurance)  
-Senior Java Developer, Team Lead 
+Senior Java Developer, Team Lead  
  - Spring Boot development 
  - GitLab, Docker CI/CD intercalation 
  - Research, organization business processes
 [https://innoseti.ru/](https://innoseti.ru/)
 
-#### Oracle America, Inc. 10/16 to Current
+#### Oracle America, Inc. 10/16 to Current  
 (specification development)  
 JCP: Associate Member java, java-ee  
 Participation in the development of the documentation for the various Java ™ API, participate in
 discussions
 [https://jcp.org/en/participation/members/K](https://jcp.org/en/participation/members/K)
 
-#### Filevskij N.M. 02/09 to 02/19
+#### Filevskij N.M. 02/09 to 02/19  
 (education)  
 Development Team Lead  
 Using Java, Javascript, C#, Python, Go, NSIS.
@@ -97,7 +97,7 @@ Mass media publications:
 
 #### School of programming 10/15 to 10/16  
 (education)  
-Teacher
+Teacher  
 Teaching of the Java programming language and related technologies.
 Conducting a webinar on using SWT to create a graphical interface. There was demonstration and analysis of examples of programs.
 [http://geekbrains.ru/events/135#](http://geekbrains.ru/events/135#).
@@ -106,22 +106,22 @@ Conducting a webinar on using the Java Sound API. There was demonstration the Ja
 
 #### Siemens VDO Engineering 09/07 to 02/09  
 (engineering)  
-Java Programmer
+Java Programmer  
 Developed the SWT GUI application for viewing charts and tables of specific data formats.
 Developed converters of specific data formats, conversion of C-based data to Java-based data and vice versa.
 Initiated usage of JUnit tests at the company. Developed various of JUnit tests.
 Code refactoring: changed Java programs codes to make them amenable to change, improved their readability, simplified their structure.
 
-#### Arctel 11/06 to 04/07 
-(ip- telephony)
-1C Programmer 
+#### Arctel 11/06 to 04/07  
+(ip- telephony)  
+1C Programmer  
 Completion of a standard configuration 1C 8.0 (“Accounts departments” and “Management of trade”)
 Creation of new documents, reports, modernization existing 1C 8.0
 Support of 8 branches across Russia
 Writing of  documentation
 
 #### Dixis 08/06 to 11/06  
-(trade and repair mobile phones)
+(trade and repair mobile phones)  
 1C Programmer 
 Development and adjustment of the standard configuration 1C 7.7 (“Trade and warehouse”)
 Electronic scales, digital fiscal recorder, barcode and label printer software and 1C 7.7. software integration .
