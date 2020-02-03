@@ -70,6 +70,7 @@ Self-education, counseling
 Study Erlang technologies
 
 #### Innoseti ([https://innoseti.ru/](https://innoseti.ru/)) 02/19 to 04/19
+(blockchain system for insurance companies)
 Senior Java Developer, Team Lead
 (software development for logistics, broker, insurance)
 • Spring Boot development
