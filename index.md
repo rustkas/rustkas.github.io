@@ -23,7 +23,7 @@ Additional profiles:
 * Quick-learner and eager for development
 
 ### The recent technical actions 
-
+* Research Hugo static site generator
 * Research using Erlang for programming for web, scientific concepts for the development of training systems 
 * Publish [translation](https://github.com/rustkas/Introducing-Erlang-2nd-Edition-translation-into-Russian-) to Russian ["Introdusing Erlang" 2nd edition](https://learning.oreilly.com/library/view/introducing-erlang-2nd/9781491973363/). 
 * Tutor of Rust programming language.
