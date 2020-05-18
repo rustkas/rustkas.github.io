@@ -15,7 +15,6 @@ Additional profiles:
 
 
 ### Technical skills and competences
-* Excellent understanding of common data structures and algorithms complexity.
 *  Strong experience in  Java/Rust/Elixir/Erlang/JS/C/Go/C++
 *  Strong architecture skills: patterns, anti-patterns, principles of applications development
 * Knowledge of UNIX remote administration: bash, apache, nginx setup, iptables setup.
@@ -23,8 +22,9 @@ Additional profiles:
 * Quick-learner and eager for development
 
 ### The recent technical actions 
+* Research using Dart for programming for Web
 * Research Hugo static site generator
-* Research using Erlang for programming for web, scientific concepts for the development of training systems 
+* Research using Erlang for programming for Web, scientific concepts for the development of training systems 
 * Translate to Russian ["Programming Erlang, Second Edition Software for a Concurrent World"](https://pragprog.com/book/jaerlang2/programming-erlang)
 * Publish [translation](https://github.com/rustkas/Introducing-Erlang-2nd-Edition-translation-into-Russian-) to Russian ["Introdusing Erlang" 2nd edition](https://learning.oreilly.com/library/view/introducing-erlang-2nd/9781491973363/). 
 * Tutor of Rust programming language.
