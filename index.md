@@ -15,7 +15,7 @@ Additional profiles:
 
 
 ### Technical skills and competences
-*  Strong experience in  Java/Rust/Elixir/Erlang/JS/C/Go/C++
+*  Strong experience in  Java/Rust/Erlang/Dart
 *  Strong architecture skills: patterns, anti-patterns, principles of applications development
 * Knowledge of UNIX remote administration: bash, apache, nginx setup, iptables setup.
 * Have strong experience in developing commercial quality products applications ("Languages with music" applications development).
