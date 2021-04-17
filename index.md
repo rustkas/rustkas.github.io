@@ -34,7 +34,7 @@ Additional profiles:
 *  Experience of Data Analytics (VBA)
 *  Experience of Data Engineering
 *  Experience with distributed stream processing frameworks
-*  Migrating to [http://www.languages-with-music.com/](http://www.languages-with-music.com/) to Bootstrap v4
+*  Migrating to site to Bootstrap v4
 *  MVP development of apps by Delphi
 *  Research of Rust compiler features [https://github.com/rustkas/error-index](https://github.com/rustkas/error-index)
 *  Research of fundamental algorithms using Rust [https://github.com/rustkas/Longest-Common-Substring-Problem](https://github.com/rustkas/Longest-Common-Substring-Problem)
@@ -50,7 +50,7 @@ Additional profiles:
 * Implementation of adaptive page design, cross-browser layout ([http://www.languages-with-music.com](http://www.languages-with-music.com)).
 * Developed Java sound obfuscator.
 * Custom software development, software development by Java for internal needs of the company.
-* Implementation of the full software development cycle (from idea to commercial product [http://www.languages-with-music.com](http://www.languages-with-music.com)) Demo - [http://languages-with-music.com/download/ewm_ru_demo.html](http://languages-with-music.com/download/ewm_ru_demo.html) by Java.
+* Implementation of the full software development cycle (from idea to commercial product by Java.
 * Sony "Sound Forge" add-in development by C#.
 
 
