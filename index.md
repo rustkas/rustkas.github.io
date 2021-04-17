@@ -3,7 +3,7 @@
 
 [My blog](blog.html)
 
-e-mail: developer@languages-with-music.com 
+e-mail: java1cprog@yandex.ru 
 tel:  +7 921 105 39 75 (mob.)
 Location: Kaliningrad, Russian Federation 
 Additional profiles:
