@@ -15,13 +15,14 @@ Additional profiles:
 
 
 ### Technical skills and competences
-*  Strong experience in  Java/Rust/Erlang/Dart
+*  Strong experience in  Erlang/Java/Dart/Rust
 *  Strong architecture skills: patterns, anti-patterns, principles of applications development
 * Knowledge of UNIX remote administration: bash, apache, nginx setup, iptables setup.
 * Have strong experience in developing commercial quality products applications ("Languages with music" applications development).
 * Quick-learner and eager for development
 
 ### The recent technical actions 
+* Research Erlang Web Development
 * Research using Dart for programming for Web
 * Research Hugo static site generator
 * Research using Erlang for programming for Web, scientific concepts for the development of training systems 
@@ -66,6 +67,10 @@ NatTable RCP - [https://yadi.sk/d/gKlwqzZ63KCaCh](https://yadi.sk/d/gKlwqzZ63KCa
 Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/bkWE77jf3KJT4o)
 
 ### Employment history 
+
+### Erlang Ecosystem Foundation 06/21
+(basic member)
+[Profile](https://members.erlef.org/Sys/PublicProfile/60481282)
 
 #### Researcher 04/19 to Current
 Self-education, counseling  
