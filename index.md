@@ -15,14 +15,18 @@ Additional profiles:
 
 
 ### Technical skills and competences
-*  Strong experience in  Erlang/Java/Dart/Rust
+*  Strong experience in  Erlang
 *  Strong architecture skills: patterns, anti-patterns, principles of applications development
 * Knowledge of UNIX remote administration: bash, apache, nginx setup, iptables setup.
 * Have strong experience in developing commercial quality products applications ("Languages with music" applications development).
 * Quick-learner and eager for development
 
+### Participation of Conferences
+ICFP 2021 [Lightning Talk: Using Regular Expressions in Erlang](https://icfp21.sigplan.org/details/erlang-2021-papers/14/Lightning-Talk-Using-Regular-Expressions-in-Erlang)
+
 ### The recent technical actions 
 * Research Erlang Web Development
+* Regular Expressions in Erlang
 * Research using Dart for programming for Web
 * Research Hugo static site generator
 * Research using Erlang for programming for Web, scientific concepts for the development of training systems 
