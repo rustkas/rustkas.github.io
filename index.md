@@ -4,8 +4,9 @@
 [My blog](blog.html)
 
 e-mail: java1cprog@yandex.ru 
-tel:  +7 921 105 39 75 (mob.)
-Location: Kaliningrad, Russian Federation 
+
+[E-resident](https://e-resident.gov.ee/) of Estonia.
+
 Additional profiles:
 [http://stackoverflow.com/story/anatolij.kosorukov](http://stackoverflow.com/story/anatolij.kosorukov)
 [https://github.com/rustkas](https://github.com/rustkas)
