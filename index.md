@@ -1,7 +1,8 @@
 
 ## Kosorukov Anatolii
 
-[My blog](blog.html)
+<!-- [My blog](blog.html) -->
+Thailand, Pattaya
 
 e-mail: java1cprog@yandex.ru 
 
