@@ -17,7 +17,8 @@ Additional profiles:
 
 
 ### Technical skills and competences
-*  Strong experience in  Erlang
+*  Strong experience in NestJS
+*  Strong experience in Erlang
 *  Strong architecture skills: patterns, anti-patterns, principles of applications development
 * Knowledge of UNIX remote administration: bash, apache, nginx setup, iptables setup.
 * Have strong experience in developing commercial quality products applications ("Languages with music" applications development).
@@ -27,6 +28,7 @@ Additional profiles:
 ICFP 2021 [Lightning Talk: Using Regular Expressions in Erlang](https://icfp21.sigplan.org/details/erlang-2021-papers/14/Lightning-Talk-Using-Regular-Expressions-in-Erlang)
 
 ### The recent technical actions 
+* Research Angular, RxJs, NestJS
 * Research Erlang Web Development
 * Regular Expressions in Erlang
 * Research using Dart for programming for Web
