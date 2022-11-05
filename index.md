@@ -4,7 +4,7 @@
 <!-- [My blog](blog.html) -->
 Thailand, Pattaya
 
-e-mail: java1cprog@yandex.ru 
+e-mail: java1cprog@gmail.com 
 
 [E-resident](https://e-resident.gov.ee/) of Estonia.
 
