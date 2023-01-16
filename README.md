@@ -1,2 +1,2 @@
 # rustkas.github.io
-CV, blog
+CV
