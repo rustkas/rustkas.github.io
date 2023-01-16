@@ -17,8 +17,8 @@ Additional profiles:
 
 
 ### Technical skills and competences
-* Strong experience in  Java/Spring/JEE
-* Knowledge of Google Cloud
+* Strong experience in  Java/Spring Boot/JEE
+* Knowledge of Google Cloud,Microservices, Jenkins, Docker
 * Strong architecture skills: patterns, anti-patterns, principles of applications development
 * Experience with automated testing frameworks like JUnit
 * Experience with high-performance, threaded applications
