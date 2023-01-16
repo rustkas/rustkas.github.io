@@ -9,11 +9,12 @@ e-mail: java1cprog@gmail.com
 [E-resident](https://e-resident.gov.ee/) of Estonia.
 
 Additional profiles:
-[http://stackoverflow.com/story/anatolij.kosorukov](http://stackoverflow.com/story/anatolij.kosorukov)
-[https://github.com/rustkas](https://github.com/rustkas)
-[https://www.youtube.com/user/java1cprog/](https://www.youtube.com/user/java1cprog/)
-[https://www.hackerrank.com/java1cprog](https://www.hackerrank.com/java1cprog)
-[http://javatalks.ru/users/1158/postList](http://javatalks.ru/users/1158/postList)
+- [https://hex.pm/users/java1cprog](https://hex.pm/users/java1cprog)
+- [http://stackoverflow.com/story/anatolij.kosorukov](http://stackoverflow.com/story/anatolij.kosorukov)
+- [https://github.com/rustkas](https://github.com/rustkas)
+- [https://www.youtube.com/user/java1cprog/](https://www.youtube.com/user/java1cprog/)
+- [https://www.hackerrank.com/java1cprog](https://www.hackerrank.com/java1cprog)
+- [http://javatalks.ru/users/1158/postList](http://javatalks.ru/users/1158/postList)
 
 
 ### Technical skills and competences
