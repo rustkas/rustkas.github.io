@@ -17,8 +17,13 @@ Additional profiles:
 
 
 ### Technical skills and competences
-*  Strong experience in NestJS, Erlang
-*  Strong architecture skills: patterns, anti-patterns, principles of applications development
+* Strong experience in  Java/Spring/JEE
+* Knowledge of Google Cloud
+* Strong architecture skills: patterns, anti-patterns, principles of applications development
+* Experience with automated testing frameworks like JUnit
+* Experience with high-performance, threaded applications
+* Tchnical problem-solving and debugging skills
+* Experience with RESTful Web Services, Hibernet, Tomcat
 * Knowledge of UNIX remote administration: bash, apache, nginx setup, iptables setup.
 * Have strong experience in developing commercial quality products applications ("Languages with music" applications development).
 * Quick-learner and eager for development
