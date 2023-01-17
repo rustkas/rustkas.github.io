@@ -85,9 +85,20 @@ Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/
 (basic member)
 [Profile](https://members.erlef.org/Sys/PublicProfile/60481282)
 
-#### Researcher 04/19 to Current
-Self-education, counseling  
-Study Erlang technologies
+#### Head of Engineering 04/19 to Current
+• SvelteKit development
+• Strong experience in Java/Spring Boot/JEE
+• Knowledge of Google Cloud,Microservices, Jenkins, Docker
+• Strong architecture skills: patterns, anti-patterns, principles of applications development
+• High-load systems development (multithreading)
+• DB development from scratch
+Опыт разработки микросервисов (Сloud)
+• Experience with automated testing frameworks like JUnit
+• Experience working with MySQL, MariaDB, PostgreSql, MS SQL, MongoDB, CoachDB,
+• Practical problem-solving and debugging skills
+• Experience with RESTful Web Services, Hibernet, Tomcat
+• Research and consulting (Tailwind, Svelte, Angular {RxJS})
+• Developing Zotonic based LMS
 
 #### Innoseti 02/19 to 04/19
 (software development for logistics, broker, insurance)  
@@ -106,7 +117,7 @@ discussions
 
 #### Filevskij N.M. 02/09 to 02/19
 (education)  
-Development Team Lead  
+Technical Director  
 Using Java, Javascript, C#, Python, Go, NSIS.
 Full stack development Creating a commercial product «Languages with Music» (software development, site, marketing).
 Development of technical specifications.
@@ -148,6 +159,17 @@ Electronic scales, digital fiscal recorder, barcode and label printer software a
 Creation of new documents, reports, modernization of existing 1C 8.0
 Support of 50 branches across Russia
 Writing of the documentation
- 
+
+#### The network of supermarkets "Syestnoy" 03/02 to 03/06
+(retail)  
+Head of technical department, System administrator, Accountant
+Development and installation of LAN,
+Setting up the trading equipment of a modern supermarket (scales, cash registers, trading programs).
+Carrying out repair work of commercial equipment
+Training
+Input of primary accounting documentation
+Development of software according to task
+Achievements:
+Participation in the creation of a supermarket chain from scratch.
 
 
