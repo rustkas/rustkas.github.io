@@ -18,7 +18,7 @@ Additional profiles:
 
 
 ### Technical skills and competences
-* Strong experience in  Java/Spring Boot/JEE
+* Strong experience in  JS/Typescript/NodeJS/SvelteKit
 * Knowledge of Google Cloud,Microservices, Jenkins, Docker
 * Strong architecture skills: patterns, anti-patterns, principles of applications development
 * Experience with automated testing frameworks like JUnit
@@ -33,6 +33,8 @@ Additional profiles:
 ICFP 2021 [Lightning Talk: Using Regular Expressions in Erlang](https://icfp21.sigplan.org/details/erlang-2021-papers/14/Lightning-Talk-Using-Regular-Expressions-in-Erlang)
 
 ### The recent technical actions 
+* https://seed-recall.app/ (SvelteKit+Supabase+Vercel) - commercial development from zero to production
+* SvelteKit/Supabase/Vercel development
 * Research Angular, RxJs, NestJS
 * Research Erlang Web Development
 * Regular Expressions in Erlang
