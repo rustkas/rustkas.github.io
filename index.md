@@ -126,7 +126,7 @@ Development of technical specifications.
 Selection of the necessary technology for the project.
 Implementation of the project.
 Mass media publications:
-[https://strana39.ru/news/zemlyaki/89616/kaliningradets-uchit-angliyskomu-yazyku-s-pomoshchyu-muzyki.html](https://strana39.ru/news/zemlyaki/89616/kaliningradets-uchit-angliyskomu-yazyku-s-pomoshchyu-muzyki.html)
+[https://strana39.ru/](https://strana39.ru/news/zemlyaki/89616/kaliningradets-uchit-angliyskomu-yazyku-s-pomoshchyu-muzyki.html)
 
 #### School of programming 10/15 to 10/16
 (education)  
