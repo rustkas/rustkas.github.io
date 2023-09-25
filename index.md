@@ -10,7 +10,6 @@ e-mail: java1cprog@gmail.com
 
 Additional profiles:
 - [https://hex.pm/users/java1cprog](https://hex.pm/users/java1cprog)
-- [http://stackoverflow.com/story/anatolij.kosorukov](http://stackoverflow.com/story/anatolij.kosorukov)
 - [https://github.com/rustkas](https://github.com/rustkas)
 - [https://www.youtube.com/user/java1cprog/](https://www.youtube.com/user/java1cprog/)
 - [https://www.hackerrank.com/java1cprog](https://www.hackerrank.com/java1cprog)
@@ -51,11 +50,11 @@ ICFP 2021 [Lightning Talk: Using Regular Expressions in Erlang](https://icfp21.s
 *  Experience with distributed stream processing frameworks
 *  Migrating to site to Bootstrap v4
 *  MVP development of apps by Delphi
-*  Research of Rust compiler features [https://github.com/rustkas/error-index](https://github.com/rustkas/error-index)
-*  Research of fundamental algorithms using Rust [https://github.com/rustkas/Longest-Common-Substring-Problem](https://github.com/rustkas/Longest-Common-Substring-Problem)
-*  Collect tips and tricks of using Rust [https://github.com/rustkas/Tip-and-Tricks-Rust-Programming](https://github.com/rustkas/Tip-and-Tricks-Rust-Programming)
-*  Writing Rust tutorials [https://github.com/rustkas/simple-about-rust](https://github.com/rustkas/simple-about-rust)
-*  Development Rust community  [http://vk.com/rust_for_developers](http://vk.com/rust_for_developers)
+*  Research of Rust compiler features [error-index](https://github.com/rustkas/error-index)
+*  Research of fundamental algorithms using Rust [Longest-Common-Substring-Problem](https://github.com/rustkas/Longest-Common-Substring-Problem)
+*  Collect tips and tricks of using Rust [Tip-and-Tricks-Rust-Programming](https://github.com/rustkas/Tip-and-Tricks-Rust-Programming)
+*  Writing Rust tutorials [simple-about-rust](https://github.com/rustkas/simple-about-rust)
+*  Development Rust community  [rust_for_developers](http://vk.com/rust_for_developers)
 *  One-time consultation of bank analysts.
 * Admin of https://vk.com/rust_for_developers
 * Improving the source code for the book "Java 9 Recipes" - [http://www.apress.com/gp/book/9781484219751](http://www.apress.com/gp/book/9781484219751)
