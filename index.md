@@ -59,7 +59,6 @@ ICFP 2021 [Lightning Talk: Using Regular Expressions in Erlang](https://icfp21.s
 *  Development Rust community  [http://vk.com/rust_for_developers](http://vk.com/rust_for_developers)
 *  One-time consultation of bank analysts.
 * Admin of https://vk.com/rust_for_developers
-* Created source codes for the book "Understanding ECMAScript 6": [ECMAScript 6](https://github.com/java1cprog/understandinges6/tree/master/manuscript/source%20code)
 * Translation of a book "Rust book" (second edition) into Russian [https://github.com/rustkas/book/tree/ru_version/second-edition/src](https://github.com/rustkas/book/tree/ru_version/second-edition/src)
 * Improving the source code for the book "Java 9 Recipes" - [http://www.apress.com/gp/book/9781484219751](http://www.apress.com/gp/book/9781484219751)
 [https://github.com/java1cprog/java-9-recipes](https://github.com/java1cprog/java-9-recipes)
