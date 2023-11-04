@@ -32,6 +32,7 @@ Additional profiles:
 ICFP 2021 [Lightning Talk: Using Regular Expressions in Erlang](https://icfp21.sigplan.org/details/erlang-2021-papers/14/Lightning-Talk-Using-Regular-Expressions-in-Erlang)
 
 ### The recent technical actions 
+* Nest.js microservice development (OCPI 2.2.1)
 * https://seed-recall.app/ (SvelteKit+Supabase+Vercel) - commercial development from zero to production
 * SvelteKit/Supabase/Vercel development
 * Research Angular, RxJs, NestJS
@@ -78,6 +79,11 @@ NatTable RCP - [https://yadi.sk/d/gKlwqzZ63KCaCh](https://yadi.sk/d/gKlwqzZ63KCa
 Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/bkWE77jf3KJT4o)
 
 ### Employment history 
+
+### Itcharge 06/23 to 11/23
+
+• Nest.js microservice development (OCPI 2.2.1)
+  Nest.js, Sequelize, Automap, Node.js, docker, Postgres
 
 ### Erlang Ecosystem Foundation 06/21
 (basic member)
