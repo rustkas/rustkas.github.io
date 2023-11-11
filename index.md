@@ -32,6 +32,7 @@ Additional profiles:
 ICFP 2021 [Lightning Talk: Using Regular Expressions in Erlang](https://icfp21.sigplan.org/details/erlang-2021-papers/14/Lightning-Talk-Using-Regular-Expressions-in-Erlang)
 
 ### The recent technical actions 
+• Canva API development (React)
 * Nest.js microservice development (OCPI 2.2.1)
 * https://seed-recall.app/ (SvelteKit+Supabase+Vercel) - commercial development from zero to production
 * SvelteKit/Supabase/Vercel development
@@ -85,10 +86,6 @@ Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/
 • Nest.js microservice development (OCPI 2.2.1)
   Nest.js, Sequelize, Automap, Node.js, docker, Postgres
 
-### Erlang Ecosystem Foundation 06/21
-(basic member)
-[Profile](https://members.erlef.org/Sys/PublicProfile/60481282)
-
 #### Head of Engineering 04/19 to Current
 • SvelteKit development
 • Strong experience in Java/Spring Boot/JEE
@@ -111,13 +108,6 @@ Senior Java Developer, Team Lead
  - GitLab, Docker CI/CD intercalation 
  - Research, organization business processes
 [https://innoseti.ru/](https://innoseti.ru/)
-
-#### Oracle America, Inc. 10/16 to Current
-(specification development)  
-JCP: Associate Member java, java-ee  
-Participation in the development of the documentation for the various Java ™ API, participate in
-discussions
-[https://jcp.org/en/participation/members/K](https://jcp.org/en/participation/members/K)
 
 #### Filevskij N.M. 02/09 to 02/19
 (education)  
@@ -176,4 +166,18 @@ Development of software according to task
 Achievements:
 Participation in the creation of a supermarket chain from scratch.
 
+
+## Networking
+
+#### Oracle America, Inc. 10/16 to Current
+(specification development)  
+JCP: Associate Member java, java-ee  
+Participation in the development of the documentation for the various Java ™ API, participate in
+discussions
+[https://jcp.org/en/participation/members/K](https://jcp.org/en/participation/members/K)
+
+
+### Erlang Ecosystem Foundation 06/21
+(basic member)
+[Profile](https://members.erlef.org/Sys/PublicProfile/60481282)
 
