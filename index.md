@@ -86,14 +86,14 @@ Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/
 • Nest.js microservice development (OCPI 2.2.1)
   Nest.js, Sequelize, Automap, Node.js, docker, Postgres
 
-#### Head of Engineering 04/19 to Current
+####  Filevskij N.M. Head of Engineering 04/19 to Current
+• Nest.js, Leaflet.js, React.js, Redux, ANT Design MVC, LESS, SASS, Tailwind, WEBPack
 • SvelteKit development
 • Strong experience in Java/Spring Boot/JEE
 • Knowledge of Google Cloud,Microservices, Jenkins, Docker
 • Strong architecture skills: patterns, anti-patterns, principles of applications development
 • High-load systems development (multithreading)
 • DB development from scratch
-Опыт разработки микросервисов (Сloud)
 • Experience with automated testing frameworks like JUnit
 • Experience working with MySQL, MariaDB, PostgreSql, MS SQL, MongoDB, CoachDB,
 • Practical problem-solving and debugging skills
