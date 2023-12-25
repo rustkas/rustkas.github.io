@@ -11,95 +11,38 @@ e-mail: java1cprog@gmail.com
 Additional profiles:
 - [https://hex.pm/users/java1cprog](https://hex.pm/users/java1cprog)
 - [https://github.com/rustkas](https://github.com/rustkas)
-- [https://www.youtube.com/user/java1cprog/](https://www.youtube.com/user/java1cprog/)
-- [https://www.hackerrank.com/java1cprog](https://www.hackerrank.com/java1cprog)
-- [http://javatalks.ru/users/1158/postList](http://javatalks.ru/users/1158/postList)
-
 
 ### Technical skills and competences
-* Strong experience in  JS/Typescript/NodeJS/SvelteKit
 * Knowledge of Google Cloud,Microservices, Jenkins, Docker
 * Strong architecture skills: patterns, anti-patterns, principles of applications development
-* Experience with automated testing frameworks like JUnit
+* Experience with automated testing frameworks
 * Experience with high-performance, threaded applications
-* Practical problem-solving and debugging skills
-* Experience with RESTful Web Services, Hibernet, Tomcat
+* Development of RESTful Web Services
 * Knowledge of UNIX remote administration: bash, apache, nginx setup, iptables setup.
-* Have strong experience in developing commercial quality products applications ("Languages with music" applications development).
 * Quick-learner and eager for development
 
 ### Participation of Conferences
 ICFP 2021 [Lightning Talk: Using Regular Expressions in Erlang](https://icfp21.sigplan.org/details/erlang-2021-papers/14/Lightning-Talk-Using-Regular-Expressions-in-Erlang)
 
-### The recent technical actions 
-• Canva API development (React)
-* Nest.js microservice development (OCPI 2.2.1)
-* https://seed-recall.app/ (SvelteKit+Supabase+Vercel) - commercial development from zero to production
-* SvelteKit/Supabase/Vercel development
-* Research Angular, RxJs, NestJS
-* Research Erlang Web Development
-* Regular Expressions in Erlang
-* Research using Dart for programming for Web
-* Research Hugo static site generator
-* Research using Erlang for programming for Web, scientific concepts for the development of training systems 
-* Translate to Russian ["Programming Erlang, Second Edition Software for a Concurrent World"](https://pragprog.com/book/jaerlang2/programming-erlang)
-* Tutor of Rust programming language.
-* Research using Delphi, Python, Scala, WebAssembly (emsdk)
-* Ability to quickly adapt to new languages, development tools, someone else's code
-* Software development using Erlang, Elixir, Python, Java, Groovy, Scala, Rust, Java, Groovy, C/C++, R, Perl, VBA, VB, C#, Go, JS, NSIS
-*  Experience of Data Analytics (VBA)
-*  Experience of Data Engineering
-*  Experience with distributed stream processing frameworks
-*  Migrating to site to Bootstrap v4
-*  MVP development of apps by Delphi
-*  Research of Rust compiler features [error-index](https://github.com/rustkas/error-index)
-*  Research of fundamental algorithms using Rust [Longest-Common-Substring-Problem](https://github.com/rustkas/Longest-Common-Substring-Problem)
-*  Collect tips and tricks of using Rust [Tip-and-Tricks-Rust-Programming](https://github.com/rustkas/Tip-and-Tricks-Rust-Programming)
-*  Writing Rust tutorials [simple-about-rust](https://github.com/rustkas/simple-about-rust)
-*  Development Rust community  [rust_for_developers](http://vk.com/rust_for_developers)
-*  One-time consultation of bank analysts.
-* Admin of https://vk.com/rust_for_developers
-* Improving the source code for the book "Java 9 Recipes" - [Java 9 Recipes](http://www.apress.com/gp/book/9781484219751)
-[https://github.com/java1cprog/java-9-recipes](https://github.com/java1cprog/java-9-recipes)
-* Implementation of adaptive page design, cross-browser layout ([http://www.languages-with-music.com](http://www.languages-with-music.com)).
-* Developed Java sound obfuscator.
-* Custom software development, software development by Java for internal needs of the company.
-* Implementation of the full software development cycle (from idea to commercial product by Java.
-* Sony "Sound Forge" add-in development by C#.
-
-
-You can use the [editor on GitHub](https://github.com/rustkas/rustkas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Code examples:
-SWT games - [https://yadi.sk/d/gyl1mKWuk66SX](https://yadi.sk/d/gyl1mKWuk66SX)
-IDE Eclipse 3.x plug-in - com.doobTools.sa160909.zip - [https://yadi.sk/d/AAFKeHM73KCa4K](https://yadi.sk/d/AAFKeHM73KCa4K)
-rcp_solution.zip - [https://yadi.sk/d/IE1Yt1lV3KCa4i](https://yadi.sk/d/IE1Yt1lV3KCa4i)
-NatTable RCP - [https://yadi.sk/d/gKlwqzZ63KCaCh](https://yadi.sk/d/gKlwqzZ63KCaCh)
-Java bytecode obfuscator - [https://yadi.sk/d/bkWE77jf3KJT4o](https://yadi.sk/d/bkWE77jf3KJT4o)
-
 ### Employment history 
 
-### Itcharge 06/23 to 11/23
+### Itcharge 12/22 to 11/23
 
-• Nest.js microservice development (OCPI 2.2.1)
-  Nest.js, Sequelize, Automap, Node.js, docker, Postgres
+• Microservice development. 
+Golang (PostgreSQL, Docker, Redis, gRPC, Jaeger),
+TypeScript (Nest.js, Sequelize, Node.js), 
+Postgres,
+Docker
 
-####  Filevskij N.M. Head of Engineering 04/19 to Current
-• Nest.js, Leaflet.js, React.js, Redux, ANT Design MVC, LESS, SASS, Tailwind, WEBPack
+####  Filevskij N.M. 02/09 to 02/19
+• Nest.js, Tailwind, WEBPack
 • SvelteKit development
-• Strong experience in Java/Spring Boot/JEE
-• Knowledge of Google Cloud,Microservices, Jenkins, Docker
-• Strong architecture skills: patterns, anti-patterns, principles of applications development
+• Knowledge of Google Cloud,Microservices, Docker
 • High-load systems development (multithreading)
 • DB development from scratch
-• Experience with automated testing frameworks like JUnit
-• Experience working with MySQL, MariaDB, PostgreSql, MS SQL, MongoDB, CoachDB,
-• Practical problem-solving and debugging skills
-• Experience with RESTful Web Services, Hibernet, Tomcat
-• Research and consulting (Tailwind, Svelte, Angular {RxJS})
-• Developing Zotonic based LMS
+• Using Go, Java, Javascript, C#, Python, NSIS.
+• Full stack development Creating a commercial product «Languages with Music» (software development, site, marketing).
+• Development of technical specifications.
 
 #### Innoseti 02/19 to 04/19
 (software development for logistics, broker, insurance)  
@@ -108,26 +51,6 @@ Senior Java Developer, Team Lead
  - GitLab, Docker CI/CD intercalation 
  - Research, organization business processes
 [https://innoseti.ru/](https://innoseti.ru/)
-
-#### Filevskij N.M. 02/09 to 02/19
-(education)  
-Technical Director  
-Using Java, Javascript, C#, Python, Go, NSIS.
-Full stack development Creating a commercial product «Languages with Music» (software development, site, marketing).
-Development of technical specifications.
-Selection of the necessary technology for the project.
-Implementation of the project.
-Mass media publications:
-[https://strana39.ru/](https://strana39.ru/news/zemlyaki/89616/kaliningradets-uchit-angliyskomu-yazyku-s-pomoshchyu-muzyki.html)
-
-#### School of programming 10/15 to 10/16
-(education)  
-Teacher  
-Teaching of the Java programming language and related technologies.
-Conducting a webinar on using SWT to create a graphical interface. There was demonstration and analysis of examples of programs.
-[http://geekbrains.ru/events/135#](http://geekbrains.ru/events/135#).
-Conducting a webinar on using the Java Sound API. There was demonstration the Java APIs for creating music player, as well as available Open Source solutions.
-[http://geekbrains.ru/events/162#](http://geekbrains.ru/events/162#)
 
 #### Siemens VDO Engineering 09/07 to 02/09
 (engineering)  
