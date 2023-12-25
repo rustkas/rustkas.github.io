@@ -34,7 +34,15 @@ TypeScript (Nest.js, Sequelize, Node.js),
 Postgres,
 Docker
 
-####  Filevskij N.M. 02/09 to 02/19
+#### Innoseti 02/18 to 04/19
+(software development for logistics, broker, insurance)  
+Senior Java Developer, Team Lead
+ - Spring Boot development 
+ - GitLab, Docker CI/CD intercalation 
+ - Research, organization business processes
+[https://innoseti.ru/](https://innoseti.ru/)
+
+####  Filevskij N.M. 02/09 to 02/18
 • Nest.js, Tailwind, WEBPack
 • SvelteKit development
 • Knowledge of Google Cloud,Microservices, Docker
@@ -43,14 +51,6 @@ Docker
 • Using Go, Java, Javascript, C#, Python, NSIS.
 • Full stack development Creating a commercial product «Languages with Music» (software development, site, marketing).
 • Development of technical specifications.
-
-#### Innoseti 02/19 to 04/19
-(software development for logistics, broker, insurance)  
-Senior Java Developer, Team Lead
- - Spring Boot development 
- - GitLab, Docker CI/CD intercalation 
- - Research, organization business processes
-[https://innoseti.ru/](https://innoseti.ru/)
 
 #### Siemens VDO Engineering 09/07 to 02/09
 (engineering)  
