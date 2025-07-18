@@ -1,0 +1,33 @@
+# Terms of Use
+
+By using this LINE chatbot, you agree to the following terms:
+
+## 1. Service Description
+
+This chatbot is provided as-is to assist users with information or services. Availability and content may change without notice.
+
+## 2. User Responsibilities
+
+Users must not:
+- Use the chatbot for illegal purposes
+- Send spam or malicious content
+- Impersonate others or mislead the bot
+
+## 3. Limitation of Liability
+
+We are not liable for any damages or losses resulting from the use of this chatbot.
+
+## 4. Termination
+
+We reserve the right to restrict or terminate access to the chatbot for any reason, without notice.
+
+## 5. Changes
+
+We may update these Terms at any time. Continued use of the chatbot means you accept the new Terms.
+
+## 6. Contact
+
+For questions, contact:  
+**[java1cprog@gmail.com]**
+
+_Last updated: [July 18, 2025]_
