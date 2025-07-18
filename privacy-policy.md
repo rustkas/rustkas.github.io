@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy Policy
+permalink: /privacy-policy/
+---
 # Privacy Policy
 
 This Privacy Policy explains how we collect, use, and protect personal information when users interact with our LINE chatbot.
